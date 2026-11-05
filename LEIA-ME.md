@@ -1,5 +1,3 @@
-TESTE_SELECAO# Noc-Tracking-Gamified
-
 Widget de meta mensal para o Leads Noc. Fica numa janela pequena sempre por cima das outras, mesmo quando você clica em outro programa, e mostra os leads feitos, quanto falta, o ritmo por dia útil e por semana, e se você está à frente ou atrás do ritmo.
 
 ## Instalação no Windows
